@@ -2,7 +2,7 @@
 
 Multi purpose telegram bot written in MoonScript/lua and licenced under the GNU General Public License.
 
-[Public bot](https://telegram.me/imandabot)
+[Public bot](https://telegram.me/vampire_family_bot)
 
 Table of Contents
 
@@ -29,7 +29,7 @@ Clone the bot
 
 ```bash
 cd $HOME
-git clone https://github.com/Imandaneshi/jack-telegram-bot.git
+git clone https://github.com/iamwildyaqi/jack-telegram-bot.git
 cd jack-telegram-bot
 ```
 Set telegram_api_key in config.moon file to the token you received from the Botfather.
